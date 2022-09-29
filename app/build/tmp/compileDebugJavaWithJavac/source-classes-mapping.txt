@@ -1,0 +1,4 @@
+com/example/metamap_test/BuildConfig.java
+ com.example.metamap_test.BuildConfig
+com/example/metamap_test/MainActivity.java
+ com.example.metamap_test.MainActivity
